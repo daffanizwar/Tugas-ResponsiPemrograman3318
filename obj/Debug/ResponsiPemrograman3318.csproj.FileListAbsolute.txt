@@ -1,0 +1,7 @@
+D:\SEMESTER 2\Pemrograman\ResponsiPemrograman3318\ResponsiPemrograman3318\obj\Debug\ResponsiPemrograman3318.csprojAssemblyReference.cache
+D:\SEMESTER 2\Pemrograman\ResponsiPemrograman3318\ResponsiPemrograman3318\obj\Debug\ResponsiPemrograman3318.csproj.CoreCompileInputs.cache
+D:\SEMESTER 2\Pemrograman\ResponsiPemrograman3318\ResponsiPemrograman3318\bin\Debug\ResponsiPemrograman3318.exe.config
+D:\SEMESTER 2\Pemrograman\ResponsiPemrograman3318\ResponsiPemrograman3318\bin\Debug\ResponsiPemrograman3318.exe
+D:\SEMESTER 2\Pemrograman\ResponsiPemrograman3318\ResponsiPemrograman3318\bin\Debug\ResponsiPemrograman3318.pdb
+D:\SEMESTER 2\Pemrograman\ResponsiPemrograman3318\ResponsiPemrograman3318\obj\Debug\ResponsiPemrograman3318.exe
+D:\SEMESTER 2\Pemrograman\ResponsiPemrograman3318\ResponsiPemrograman3318\obj\Debug\ResponsiPemrograman3318.pdb
